@@ -1,1 +1,1 @@
-Para executar o programa bastar digitar o diretorio onde está lozalizado o arquivo.
+Para executar o programa bastar digitar o diretorio onde está localizado o arquivo.
